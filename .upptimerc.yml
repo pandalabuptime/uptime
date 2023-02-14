@@ -9,3 +9,6 @@ sites:
   - { name: 'Website', url: https://www.pandalab.fr }
   - { name: 'Status', url: https://status.pandalab.fr }
   - { name: 'CDN', url: https://cdn.pandalab.fr }
+
+status-website:
+  publish: false
