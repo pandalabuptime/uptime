@@ -5,10 +5,15 @@ skipDescriptionUpdate: true
 skipTopicsUpdate: true
 skipHomepageUpdate: true
 
+status-website:
+  publish: false
+  
+commitMessages:
+  commitAuthorName: 'PandaLab Uptime'
+  commitAuthorEmail: 'tech+uptime@pandalab.fr'
+
 sites:
   - { name: 'Website', url: https://www.pandalab.fr }
   - { name: 'Status', url: https://status.pandalab.fr }
   - { name: 'CDN', url: https://cdn.pandalab.fr }
 
-status-website:
-  publish: false
