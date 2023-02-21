@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 537,
-    "timeDay": 467,
-    "timeWeek": 522,
-    "timeMonth": 537,
-    "timeYear": 537,
+    "time": 542,
+    "timeDay": 486,
+    "timeWeek": 529,
+    "timeMonth": 542,
+    "timeYear": 542,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.pandalab.fr.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "95.17%",
-    "uptimeDay": "65.91%",
-    "uptimeWeek": "95.13%",
-    "uptimeMonth": "95.17%",
-    "uptimeYear": "95.17%",
-    "time": 571,
-    "timeDay": 473,
-    "timeWeek": 568,
-    "timeMonth": 571,
-    "timeYear": 571,
+    "uptime": "94.99%",
+    "uptimeDay": "64.66%",
+    "uptimeWeek": "94.95%",
+    "uptimeMonth": "94.99%",
+    "uptimeYear": "94.99%",
+    "time": 569,
+    "timeDay": 480,
+    "timeWeek": 566,
+    "timeMonth": 569,
+    "timeYear": 569,
     "dailyMinutesDown": {
-      "2023-02-21": 491
+      "2023-02-21": 509
     }
   },
   {
@@ -48,31 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 430,
-    "timeWeek": 490,
-    "timeMonth": 502,
-    "timeYear": 502,
+    "time": 508,
+    "timeDay": 453,
+    "timeWeek": 498,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "This is a test",
-    "url": "https://expired.badssl.com",
-    "icon": "https://icons.duckduckgo.com/ip3/expired.badssl.com.ico",
-    "slug": "this-is-a-test",
-    "status": "down",
-    "uptime": "3.72%",
-    "uptimeDay": "3.72%",
-    "uptimeWeek": "3.72%",
-    "uptimeMonth": "3.72%",
-    "uptimeYear": "3.72%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-02-21": 0
-    }
   }
 ]
