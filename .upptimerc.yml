@@ -16,5 +16,5 @@ sites:
   - { name: 'Website', url: https://www.pandalab.fr }
   - { name: 'Status', url: https://status.pandalab.fr }
   - { name: 'CDN', url: https://cdn.pandalab.fr }
-  - { name: 'Test #1', url: https://expired.badssl.com }
-  - { name: 'Test #2', url: https://idonotexist.net }
+  - { name: 'Test #A1', url: https://expired.badssl.com }
+  - { name: 'Test #A2', url: https://idonotexist.net }
