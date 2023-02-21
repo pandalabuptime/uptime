@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 444,
-    "timeWeek": 581,
-    "timeMonth": 581,
-    "timeYear": 581,
+    "time": 564,
+    "timeDay": 429,
+    "timeWeek": 564,
+    "timeMonth": 564,
+    "timeYear": 564,
     "dailyMinutesDown": {}
   },
   {
@@ -28,12 +28,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 467,
-    "timeWeek": 636,
-    "timeMonth": 636,
-    "timeYear": 636,
-    "dailyMinutesDown": {}
+    "time": 617,
+    "timeDay": 459,
+    "timeWeek": 617,
+    "timeMonth": 617,
+    "timeYear": 617,
+    "dailyMinutesDown": {
+      "2023-02-21": 0
+    }
   },
   {
     "name": "CDN",
@@ -46,11 +48,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 355,
-    "timeWeek": 541,
-    "timeMonth": 541,
-    "timeYear": 541,
+    "time": 529,
+    "timeDay": 391,
+    "timeWeek": 529,
+    "timeMonth": 529,
+    "timeYear": 529,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test",
+    "url": "https://expired.badssl.com",
+    "icon": "https://icons.duckduckgo.com/ip3/expired.badssl.com.ico",
+    "slug": "test",
+    "status": "down",
+    "uptime": "9.85%",
+    "uptimeDay": "9.85%",
+    "uptimeWeek": "9.85%",
+    "uptimeMonth": "9.85%",
+    "uptimeYear": "9.85%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-02-21": 0
+    }
   }
 ]
