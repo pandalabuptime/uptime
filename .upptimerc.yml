@@ -3,7 +3,6 @@ repo: uptime
 user-agent: uptime/github
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
-skipHomepageUpdate: true
 
 status-website:
   publish: false
