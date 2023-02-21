@@ -3,9 +3,6 @@ repo: uptime
 user-agent: uptime/github
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
-
-status-website:
-  publish: false
   
 commitMessages:
   commitAuthorName: 'PandaLab Uptime'
