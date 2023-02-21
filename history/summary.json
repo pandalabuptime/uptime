@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 486,
-    "timeWeek": 529,
-    "timeMonth": 542,
-    "timeYear": 542,
+    "time": 535,
+    "timeDay": 478,
+    "timeWeek": 522,
+    "timeMonth": 535,
+    "timeYear": 535,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.pandalab.fr.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "94.99%",
+    "uptime": "95.00%",
     "uptimeDay": "64.66%",
     "uptimeWeek": "94.95%",
-    "uptimeMonth": "94.99%",
-    "uptimeYear": "94.99%",
-    "time": 569,
-    "timeDay": 480,
-    "timeWeek": 566,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "uptimeMonth": "95.00%",
+    "uptimeYear": "95.00%",
+    "time": 562,
+    "timeDay": 478,
+    "timeWeek": 558,
+    "timeMonth": 562,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2023-02-21": 509
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 453,
-    "timeWeek": 498,
-    "timeMonth": 508,
-    "timeYear": 508,
+    "time": 504,
+    "timeDay": 450,
+    "timeWeek": 493,
+    "timeMonth": 504,
+    "timeYear": 504,
     "dailyMinutesDown": {}
   }
 ]
