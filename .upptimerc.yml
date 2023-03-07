@@ -3,7 +3,16 @@ repo: uptime
 user-agent: uptime/github
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
-  
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "* * * * *"
+
 commitMessages:
   commitAuthorName: 'PandaLab Uptime'
   commitAuthorEmail: 'tech+uptime@pandalab.fr'
