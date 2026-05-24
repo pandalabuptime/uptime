@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1634,
-    "timeDay": 1963,
-    "timeWeek": 1843,
-    "timeMonth": 1746,
-    "timeYear": 1639,
+    "time": 1636,
+    "timeDay": 1931,
+    "timeWeek": 1848,
+    "timeMonth": 1759,
+    "timeYear": 1638,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.pandalab.fr.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1924,
-    "timeDay": 1309,
-    "timeWeek": 896,
-    "timeMonth": 1304,
+    "timeDay": 971,
+    "timeWeek": 904,
+    "timeMonth": 1311,
     "timeYear": 1930,
     "dailyMinutesDown": {
       "2025-07-08": 19
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2134,
-    "timeDay": 1509,
-    "timeWeek": 952,
-    "timeMonth": 1997,
-    "timeYear": 2195,
+    "time": 2124,
+    "timeDay": 1061,
+    "timeWeek": 987,
+    "timeMonth": 2007,
+    "timeYear": 2182,
     "dailyMinutesDown": {
       "2025-07-08": 19
     }
