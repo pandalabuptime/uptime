@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1652,
-    "timeDay": 1295,
-    "timeWeek": 1457,
-    "timeMonth": 1592,
-    "timeYear": 1650,
+    "time": 1651,
+    "timeDay": 1390,
+    "timeWeek": 1481,
+    "timeMonth": 1585,
+    "timeYear": 1649,
     "dailyMinutesDown": {}
   },
   {
@@ -28,14 +28,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1810,
-    "timeDay": 858,
-    "timeWeek": 813,
-    "timeMonth": 813,
+    "time": 1801,
+    "timeDay": 866,
+    "timeWeek": 844,
+    "timeMonth": 812,
     "timeYear": 1765,
-    "dailyMinutesDown": {
-      "2025-07-08": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN",
@@ -48,13 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2025,
-    "timeDay": 633,
-    "timeWeek": 879,
-    "timeMonth": 877,
-    "timeYear": 1994,
-    "dailyMinutesDown": {
-      "2025-07-08": 19
-    }
+    "time": 2027,
+    "timeDay": 1510,
+    "timeWeek": 950,
+    "timeMonth": 899,
+    "timeYear": 1982,
+    "dailyMinutesDown": {}
   }
 ]
