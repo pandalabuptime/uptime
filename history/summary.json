@@ -4,18 +4,20 @@
     "url": "https://www.pandalab.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.pandalab.fr.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1661,
-    "timeDay": 1308,
-    "timeWeek": 1653,
-    "timeMonth": 1617,
-    "timeYear": 1645,
-    "dailyMinutesDown": {}
+    "time": 1658,
+    "timeDay": 988,
+    "timeWeek": 1530,
+    "timeMonth": 1587,
+    "timeYear": 1642,
+    "dailyMinutesDown": {
+      "2026-07-22": 0
+    }
   },
   {
     "name": "Status",
@@ -24,7 +26,7 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 814,
     "timeMonth": 843,
     "timeYear": 1685,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-22": 0
+    }
   },
   {
     "name": "CDN",
