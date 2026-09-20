@@ -1,7 +1,7 @@
 url: https://www.pandalab.fr
-status: up
-code: 200
-responseTime: 1285
-lastUpdated: 2026-09-20T00:35:07.474Z
+status: down
+code: 503
+responseTime: 1058
+lastUpdated: 2026-09-20T06:26:12.228Z
 startTime: 2023-02-14T09:18:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
