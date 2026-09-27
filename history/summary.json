@@ -4,17 +4,17 @@
     "url": "https://www.pandalab.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.pandalab.fr.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.95%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.89%",
-    "time": 1670,
-    "timeDay": 1928,
-    "timeWeek": 1669,
-    "timeMonth": 1771,
-    "timeYear": 1695,
+    "time": 1669,
+    "timeDay": 1107,
+    "timeWeek": 1531,
+    "timeMonth": 1715,
+    "timeYear": 1692,
     "dailyMinutesDown": {
       "2026-07-22": 75,
       "2026-09-20": 509
@@ -27,18 +27,19 @@
     "slug": "status",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "94.95%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.89%",
     "time": 1666,
     "timeDay": 1039,
     "timeWeek": 1031,
-    "timeMonth": 852,
+    "timeMonth": 846,
     "timeYear": 1452,
     "dailyMinutesDown": {
       "2026-07-22": 75,
-      "2026-09-20": 509
+      "2026-09-20": 509,
+      "2026-09-27": 0
     }
   },
   {
@@ -55,7 +56,7 @@
     "time": 1844,
     "timeDay": 745,
     "timeWeek": 867,
-    "timeMonth": 846,
+    "timeMonth": 845,
     "timeYear": 1680,
     "dailyMinutesDown": {}
   }
