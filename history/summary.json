@@ -5,19 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pandalab.fr.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.89%",
-    "time": 1669,
-    "timeDay": 1107,
-    "timeWeek": 1531,
-    "timeMonth": 1715,
-    "timeYear": 1692,
+    "uptime": "99.88%",
+    "uptimeDay": "6.06%",
+    "uptimeWeek": "86.58%",
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "99.63%",
+    "time": 1665,
+    "timeDay": 428,
+    "timeWeek": 1460,
+    "timeMonth": 1683,
+    "timeYear": 1688,
     "dailyMinutesDown": {
       "2026-07-22": 75,
-      "2026-09-20": 509
+      "2026-09-20": 509,
+      "2026-09-28": 251,
+      "2026-09-27": 1102
     }
   },
   {
@@ -26,20 +28,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.pandalab.fr.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.89%",
-    "time": 1666,
-    "timeDay": 1039,
-    "timeWeek": 1031,
-    "timeMonth": 846,
-    "timeYear": 1452,
+    "uptime": "99.86%",
+    "uptimeDay": "6.06%",
+    "uptimeWeek": "86.58%",
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "99.63%",
+    "time": 1656,
+    "timeDay": 889,
+    "timeWeek": 1016,
+    "timeMonth": 847,
+    "timeYear": 1451,
     "dailyMinutesDown": {
       "2026-07-22": 75,
       "2026-09-20": 509,
-      "2026-09-27": 0
+      "2026-09-28": 251,
+      "2026-09-27": 1102
     }
   },
   {
@@ -54,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1844,
-    "timeDay": 745,
-    "timeWeek": 867,
-    "timeMonth": 845,
+    "timeDay": 909,
+    "timeWeek": 919,
+    "timeMonth": 847,
     "timeYear": 1680,
     "dailyMinutesDown": {}
   }
