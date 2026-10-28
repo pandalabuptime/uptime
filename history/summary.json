@@ -4,16 +4,16 @@
     "url": "https://www.pandalab.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.pandalab.fr.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "99.45%",
-    "time": 1683,
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.44%",
+    "time": 1684,
     "timeDay": 2106,
-    "timeWeek": 1683,
-    "timeMonth": 1859,
+    "timeWeek": 1879,
+    "timeMonth": 1865,
     "timeYear": 1707,
     "dailyMinutesDown": {
       "2026-07-22": 75,
@@ -21,7 +21,8 @@
       "2026-09-28": 809,
       "2026-09-27": 1102,
       "2026-10-14": 204,
-      "2026-10-21": 212
+      "2026-10-21": 212,
+      "2026-10-28": 10
     }
   },
   {
@@ -29,13 +30,13 @@
     "url": "https://status.pandalab.fr",
     "icon": "https://icons.duckduckgo.com/ip3/status.pandalab.fr.ico",
     "slug": "status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "99.45%",
-    "time": 1575,
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.03%",
+    "uptimeYear": "99.44%",
+    "time": 1576,
     "timeDay": 953,
     "timeWeek": 891,
     "timeMonth": 919,
@@ -46,7 +47,8 @@
       "2026-09-28": 809,
       "2026-09-27": 1102,
       "2026-10-14": 204,
-      "2026-10-21": 212
+      "2026-10-21": 212,
+      "2026-10-28": 10
     }
   },
   {
@@ -54,17 +56,19 @@
     "url": "https://cdn.pandalab.fr",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.pandalab.fr.ico",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1766,
+    "time": 1768,
     "timeDay": 713,
     "timeWeek": 932,
     "timeMonth": 896,
     "timeYear": 1535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-28": 0
+    }
   }
 ]
